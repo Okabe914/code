@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.21.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_JSR8" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_2NPF" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RRMG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">X</Translation>
+      </Text>
+      <Text Id="__SingleUse_MNP0" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">You played so well!</Translation>
+      </Text>
+      <Text Id="__SingleUse_3KLR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">BACK to Menu</Translation>
+      </Text>
+      <Text Id="__SingleUse_2XBG" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_AYV6" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Contine</Translation>
+      </Text>
+      <Text Id="__SingleUse_F9VK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB" />
+      </Text>
+      <Text Id="__SingleUse_SLY0" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value &gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GAT6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">50</Translation>
+      </Text>
+      <Text Id="__SingleUse_RKDP" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6FLS" Alignment="Center" TypographyId="KaiTi">
+        <Translation Language="GB">退出</Translation>
+      </Text>
+      <Text Id="__SingleUse_3LR6" Alignment="Center" TypographyId="KaiTi">
+        <Translation Language="GB">帮助</Translation>
+      </Text>
+      <Text Id="__SingleUse_CIGQ" Alignment="Center" TypographyId="KaiTi">
+        <Translation Language="GB">选项</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="ROCKEB.TTF" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="KaiTi" Font="simkai.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="Typography_00" Font="ROCKEB.TTF" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="Typography_01" Font="ROCKEB.TTF" Size="24" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="Typography_02" Font="ROCKEB.TTF" Size="50" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+  </Typographies>
+</TextDatabase>
